@@ -6,8 +6,7 @@ public class ct8 {
         Scanner num = new Scanner(System.in);
 
         int a = num.nextInt();
-        int b = 543;
 
-        System.out.println(a - b);
+        System.out.println(a - 543);
     }
 }
